@@ -6903,10 +6903,10 @@ onetime@^6.0.0:
   dependencies:
     mimic-fn "^4.0.0"
 
-openapi-client-axios@^7.5.5:
-  version "7.5.5"
-  resolved "https://registry.npmjs.org/openapi-client-axios/-/openapi-client-axios-7.5.5.tgz#4cb2bb7484ff9d1c92d9ff509db235cc35d64f38"
-  integrity sha512-pgCo1z+rxtYmGQXzB+N5DiXvRurTP6JqV+Ao/wtaGUMIIIM+znh3nTztps+FZS8mZgWnDHpdEzL9bWtZuWuvoA==
+openapi-client-axios@^7.7.0:
+  version "7.7.0"
+  resolved "https://registry.yarnpkg.com/openapi-client-axios/-/openapi-client-axios-7.7.0.tgz#86b14b724bc2dd5e0fcf49eed7c95d3930b5e441"
+  integrity sha512-4FCNZw+LUgW4x7y9CO1zhp9pbQWIfj63xv4b0ZAeyqrfcuPLtGgz5L4TTWwFtlLDGztevuojTqUQwsh/ZaeLyg==
   dependencies:
     bath-es5 "^3.0.3"
     dereference-json-schema "^0.2.1"
